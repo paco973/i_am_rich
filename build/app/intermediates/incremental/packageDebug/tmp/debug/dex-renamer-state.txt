@@ -1,0 +1,4 @@
+#Wed Mar 24 02:27:13 CET 2021
+base.0=/home/whisky/AndroidStudioProjects/i_m_rich/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
